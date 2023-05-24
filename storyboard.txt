@@ -3,3 +3,4 @@ STORYBOARD
 - membuat flowchart 
 - membuat wiframe
 - membuat prototype
+- mendemokan hasil prototype
